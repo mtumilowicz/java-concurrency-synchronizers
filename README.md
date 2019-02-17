@@ -13,6 +13,5 @@ sections
 We will discuss structures listed below:
 * **Semaphores**: https://github.com/mtumilowicz/java11-concurrency-semaphore
 * **Barriers**: https://github.com/mtumilowicz/java11-concurrency-cyclicbarrier
-* **Phasers**: https://github.com/mtumilowicz/java11-concurrency-phaser
 * **Latches**: https://github.com/mtumilowicz/java11-concurrency-countdownlatch
 * **Exchangers**: https://github.com/mtumilowicz/java11-concurrency-exchanger
